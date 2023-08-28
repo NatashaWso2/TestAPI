@@ -4,5 +4,12 @@
     "total": 7830,
     "date": "28-09-2023",
     "unit": "euros"
-  }
+  },
+  "verified_emails": [
+    { "id": "100111", "email": "abcuser@test.com"},
+    { "id": "200222", "email": "pqruser@test.com"},
+    { "id": "300333", "email": "xyzuser@test.com"},
+    { "id": "400444", "email": "mnouser@test.com"},
+    { "id": "500555", "email": "efguser@test.com"}
+]
 }
