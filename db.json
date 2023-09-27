@@ -11,5 +11,5 @@
     { "id": "400444", "email": "mnouser@test.com"},
     { "id": "500555", "email": "efguser@test.com"}
 ],
-  "allowed_cities": ["London", "Edinburgh", "Manchester", "Birmingham"]
+  "allowed_cities": {"data": ["London", "Edinburgh", "Manchester", "Birmingham"]}
 }
